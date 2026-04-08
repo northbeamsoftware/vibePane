@@ -26,7 +26,7 @@ A lightweight macOS menu bar app for developers juggling multiple projects. Inst
 ### Build & Run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/vibePane.git
+git clone https://github.com/northbeamsoftware/vibePane.git
 cd vibePane
 xcodegen generate
 xcodebuild -project vibePane.xcodeproj -scheme vibePane -configuration Release build
