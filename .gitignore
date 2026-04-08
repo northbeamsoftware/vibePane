@@ -1,0 +1,16 @@
+# Xcode
+vibePane.xcodeproj/
+DerivedData/
+*.xcuserdata
+*.xcworkspace
+build/
+
+# macOS
+.DS_Store
+*.swp
+
+# Personal data (generated at runtime)
+# projects.json lives in ~/Library/Application Support/vibePane/
+
+# Tasks (internal dev tracking)
+tasks/
